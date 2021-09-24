@@ -1,5 +1,8 @@
 ---
 # Display name
+
+title: Sebastian Vollmer
+
 name: Sebastian Vollmer
 
 # Username (this should match the folder name)
