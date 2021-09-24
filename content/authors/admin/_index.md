@@ -17,8 +17,7 @@ role: Professor for Applications of Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Technical University of Kaiserslautern
- , German Centre for Artificial Intelligence, University of Warwick 
+- name: Technical University of Kaiserslautern, German Centre for Artificial Intelligence, University of Warwick 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
