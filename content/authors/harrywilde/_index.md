@@ -64,7 +64,7 @@ email: "h.wilde@warwick.ac.uk"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Student
+- Grad Students
 ---
 
 Harrison is a second year PhD student in Statistics supervised primarily by Sebastian Vollmer at the DFKI (German Research Center for Artificial Intelligence). He is the 2019 recipient of the Feuer International Scholarship in Artificial Intelligence and a 2019 Data Science for Social Good Fellow. He continues to support the fellowship and foundation as one of the principal organisers and reviewers for the UK programme.
