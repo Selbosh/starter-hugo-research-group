@@ -15,28 +15,28 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: My research group description.
+description: Sebastian Vollmer Research Group
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: vollmer@cs.uni-kl.de
+phone: +49 631 20575 7601
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Trippstadter Str. 122
+  city: Kaiserslautern
   region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  postcode: '67763'
+  country: Germany
+  country_code: DE
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '49.4300197288941'
+  longitude: '7.751309200208138'
+directions: Enter Building  and take the stairs to Office 3.09 on Floor 3
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+appointment_url: 'https://tidycal.com/sjvollmer/30-minute-meeting'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
