@@ -56,7 +56,7 @@ email: "Jen-Ning.Lim@warwick.ac.uk"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Student
+- Grad Students
 ---
 Jen Ning is a first year PhD student in Statistics currently supervised by Prof. Sebastian Vollmer at DFKI (German Research Center for Artificial Intelligence) and Dr. Andrew Duncan at Imperial College London. He is supported by the Feuer International Scholarship in Artificial Intelligence.
 He has broad research interests and is currently working on energy-based models. Previously, he worked on model comparison and feature selection using selective kernel non-parameteric hypothesis tests.

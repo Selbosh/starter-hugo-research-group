@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student in Statistics
+role: Grad Students
 
 # Organizations/Affiliations
 organizations:
