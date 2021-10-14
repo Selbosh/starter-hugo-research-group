@@ -3,7 +3,7 @@ title: Accelerating Markov Chain Monte Carlo
 summary: Speeding up MCMC for scalable Bayesian Inference.
 tags:
 - MCMC
-date: "2017-06-16T00:00:00Z"
+date: "2019-06-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

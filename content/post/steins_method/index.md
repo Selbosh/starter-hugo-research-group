@@ -3,7 +3,7 @@ title: Stein's method for Statistics and Machine Learning
 summary: Developing efficient Stein-based discrepancies for inference and assessment.
 tags:
 - stein
-date: "2019-05-27T00:00:00Z"
+date: "2018-05-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

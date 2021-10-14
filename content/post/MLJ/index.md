@@ -3,7 +3,7 @@ title: Machine Learning in Julia
 summary: MLJ (Machine Learning in Julia) is a toolbox written in Julia providing a common interface and meta-algorithms for selecting, tuning, evaluating, composing and comparing machine learning models written in Julia and other languages.
 tags:
 - Julia
-date: "2019-05-27T00:00:00Z"
+date: "2020-09-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
