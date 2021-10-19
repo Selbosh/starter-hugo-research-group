@@ -39,6 +39,20 @@ After 12 years in the UK I moved back to the UK to lead a research group at the 
 You need to apply via [https://applymsc.informatik.uni-kl.de/](https://applymsc.informatik.uni-kl.de/) to be addmited to MSc but get in touch before.
 # [Submit your interest here!](https://forms.office.com/r/CWNtPWXdLr)
 
+# Selected International Colloaborators 
+ - [Bernd Bischl (Fraunhofer & München)](https://www.slds.stat.uni-muenchen.de/people/bischl/)
+ - [Spiros Denaxas (UCL)](https://denaxaslab.org)
+ - [Hong Ge](https://www.google.com/search?client=safari&rls=en&q=hong+cambridge&ie=UTF-8&oe=UTF-8) 
+ - [Andrew Duncan (Imperial College)](https://www.ma.imperial.ac.uk/~aduncan/)
+ - [Rayid Ghani (CMU)](http://www.rayidghani.com)
+ - [Chris Holmes (Oxford & Alan Turing Institute)](http://www.stats.ox.ac.uk/~cholmes/)
+ - [Louis Aslett (Durham & Alan Turing Institute)](http://www.louisaslett.com)
+ - [Laster Mackey (Stanford & Microsoft)](https://www.google.com/se
+ arch?client=safari&rls=en&q=laster+mackey&ie=UTF-8&oe=UTF-8)
+ - [Yee Whye Teh (Oxford & Deep Mind)](https://www.stats.ox.ac.uk/~teh/)
+ 
+ 
+ 
 
 # University and Institute
 
