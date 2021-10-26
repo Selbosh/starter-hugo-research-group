@@ -17,7 +17,8 @@ header:
 
 Push the boundaries of ML/AI to tackle the problems that really matter
 
-After 12 years in the UK, I moved back to Germany to lead a research group at the University of Kaiserlautern and the German Centre for Artificial Intelligence. We are hiring on all levels: MSc and PhD students, postdoctoral fellows and a group leader.
+After 12 years in the UK I moved back to the UK to lead a research group at the Univeristy of Kaiserlautern and the German Centre for Artificial Intelligence. We are hiring on all levels MSc, PhD students but also postdoctoral fellows and group leader.
+
 
 # Open Positions (remote options possible!) Respond by 30.11
 # [Submit your interest here!](https://forms.office.com/r/CWNtPWXdLr)
@@ -33,11 +34,17 @@ We predominantly hire PhDs and Postdocs, but if you are highly motivated and see
 
 You need to apply via https://applymsc.informatik.uni-kl.de/ to be admitted but get in touch before (note: provide how).
 
-After 12 years in the UK I moved back to the UK to lead a research group at the Univeristy of Kaiserlautern and the German Centre for Artificial Intelligence. We are hiring on all levels MSc, PhD students but also postdoctoral fellows and group leader. 
 
 
 You need to apply via [https://applymsc.informatik.uni-kl.de/](https://applymsc.informatik.uni-kl.de/) to be addmited to MSc but get in touch before.
 # [Submit your interest here!](https://forms.office.com/r/CWNtPWXdLr)
+
+# Sample project
+
+Survival/time-to-event analysis is an important field of Statistics concerned with understanding the distribution of events over time. Survival analysis presents a unique challenge as we are also interested in events that do not take place, which we refer to as ‘censoring’. Survival analysis methods are important in many real-world settings, such as healthcare (disease prognosis), finance and economics (risk of default), commercial ventures (customer churn), engineering (component lifetime), and many more. Recently there has been an increased interest in applying machine learning to survival analysis in order to make more powerful predictions. 
+We encourage successful candidates to explore areas of machine learning within survival analysis that are of interest to them and to pursue novel methods. We also encourage open-source software development in R or Julia. In particular, the candidate will be expected to contribute to the survival analysis development in [MLJ](https://alan-turing-institute.github.io/MLJ.jl/dev/). As well as advances in model development, research will also be expected to explore practical aspects of model comparison including validation and benchmarking. This comprehensive programme will ensure any successful candidate is an expert in machine learning survival analysis.
+Successful candidates will work on cutting-edge research with access to state-of-the-art technology and will be at the forefront of survival analysis research. The project will further allow the candidate to develop the necessary skills to become an independent researcher by encouraging novel ideas and methods, as well as helping the candidate grow their own network of academics across the world.
+
 
 # Selected International Colloaborators 
  - [Bernd Bischl (Fraunhofer & München)](https://www.slds.stat.uni-muenchen.de/people/bischl/)
