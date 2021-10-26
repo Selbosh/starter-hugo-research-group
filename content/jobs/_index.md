@@ -54,8 +54,7 @@ Successful candidates will work on cutting-edge research with access to state-of
  - [Rayid Ghani (CMU)](http://www.rayidghani.com)
  - [Chris Holmes (Oxford & Alan Turing Institute)](http://www.stats.ox.ac.uk/~cholmes/)
  - [Louis Aslett (Durham & Alan Turing Institute)](http://www.louisaslett.com)
- - [Laster Mackey (Stanford & Microsoft)](https://www.google.com/se
- arch?client=safari&rls=en&q=laster+mackey&ie=UTF-8&oe=UTF-8)
+ - [Laster Mackey (Stanford & Microsoft) ](https://web.stanford.edu/~lmackey/)
  - [Yee Whye Teh (Oxford & Deep Mind)](https://www.stats.ox.ac.uk/~teh/)
  
  
