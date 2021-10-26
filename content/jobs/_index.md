@@ -26,7 +26,7 @@ After 12 years in the UK I moved back to the UK to lead a research group at the 
 ## Senior Researcher/Group Leader
 Are you excited by this lab's research directions and want to lead your own research agenda and grant income? Our group and DFKI is an excellent place for you.
 ## Postdoctoral Fellows
-If you have completed or are about to complete your PhD and are interested in our projects, get in touch. We can be a great springboard into industry, startup (Link) and be the first step of an academic career.
+If you have completed or are about to complete your PhD and are interested in our projects, get in touch. We can be a great springboard into industry, [startup](https://www-live.dfki.de/en/web/technologies-applications/industry/spin-offs) and be the first step of an academic career.
 ## PhD stipends
 If you are excited by our past research or the topics mentioned, please get in touch.
 ## MSc stipends (international students are very welcome)
