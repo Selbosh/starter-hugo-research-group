@@ -10,7 +10,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Positions"
-  image: "coders"
+  image: ""
 ---
 
 
@@ -18,7 +18,7 @@ header:
 *Pushing the boundaries of ML/AI to tackle the problems that really matter*
 
 
-After 12 years in the UK I moved back to the UK to lead a research group at the Univeristy of Kaiserlautern and the German Centre for Artificial Intelligence. We are hiring on all levels MSc, PhD students but also postdoctoral fellows and group leader.
+After 12 years in the UK I moved back to the UK to lead a research group at the University of Kaiserlautern and the German Centre for Artificial Intelligence. We are hiring on all levels MSc, PhD students but also postdoctoral fellows and group leader.
 
 
 # Open Positions (remote options possible!) Respond by 30.11
@@ -65,7 +65,7 @@ Successful candidates will work on cutting-edge research with access to state-of
 
 # University and Institute
 
-![dfki-kaiserslautern.jpg](dfki-159.jpg)
+![dfki-kaiserslautern.jpg](159.jpg)
 
 
 ![dfki-kaiserslautern.jpg](dfki-kaiserslautern.jpg)
