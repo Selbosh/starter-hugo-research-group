@@ -10,10 +10,12 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Positions"
-  image: ""
+  image: "coders"
 ---
 
-*Push the boundaries of ML/AI to tackle the problems that really matter*
+
+
+*Pushing the boundaries of ML/AI to tackle the problems that really matter*
 
 
 After 12 years in the UK I moved back to the UK to lead a research group at the Univeristy of Kaiserlautern and the German Centre for Artificial Intelligence. We are hiring on all levels MSc, PhD students but also postdoctoral fellows and group leader.
