@@ -9,7 +9,7 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Jobs"
+  caption: "Positions"
   image: ""
 ---
 
@@ -26,13 +26,15 @@ After 12 years in the UK I moved back to the UK to lead a research group at the 
 ## Senior Researcher/Group Leader
 Are you excited by this lab's research directions and want to lead your own research agenda and grant income? Our group and DFKI is an excellent place for you.
 ## Postdoctoral Fellows
-If you have completed or are about to complete your PhD and are interested in our projects, get in touch. We can be a great springboard into industry, [startup](https://www-live.dfki.de/en/web/technologies-applications/industry/spin-offs) and be the first step of an academic career.
+If you have completed or are about to complete your PhD and are interested in our projects, get in touch. We can be a great springboard into industry, to create [startups](https://www-live.dfki.de/en/web/technologies-applications/industry/spin-offs) and be the first step of an academic career.
 ## PhD stipends
 If you are excited by our past research or the topics mentioned, please get in touch.
+1700€ per month stipend + potentially academic assitant position (HIWI)
+
 ## MSc stipends (international students are very welcome)
 We predominantly hire PhDs and Postdocs, but if you are highly motivated and see exceptional synergy with our group, please be in touch.
 
-You need to apply via https://applymsc.informatik.uni-kl.de/ to be admitted but get in touch before (note: provide how).
+You need to apply via https://applymsc.informatik.uni-kl.de/ to be admitted but get in touch before.
 
 
 
