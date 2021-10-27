@@ -18,7 +18,7 @@ header:
 *Pushing the boundaries of ML/AI to tackle the problems that really matter*
 
 
-After 12 years in the UK I moved back to the UK to lead a research group at the University of Kaiserlautern and the German Centre for Artificial Intelligence. We are hiring on all levels MSc, PhD students but also postdoctoral fellows and group leader.
+After 12 years in the UK I moved back to the Germany to lead a research group at the University of Kaiserlautern and the German Centre for Artificial Intelligence. We are hiring on all levels MSc, PhD students but also postdoctoral fellows and group leader.
 
 
 # Open Positions (remote options possible!) Respond by 30.11
