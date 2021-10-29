@@ -30,16 +30,16 @@ Are you excited by this lab's research directions and want to lead your own rese
 If you have completed or are about to complete your PhD and are interested in our projects, get in touch. We can be a great springboard into industry, to create [startups](https://www-live.dfki.de/en/web/technologies-applications/industry/spin-offs) and be the first step of an academic career.
 ## PhD stipends
 If you are excited by our past research or the topics mentioned, please get in touch.
-1700€ per month stipend + potentially academic assitant position (HIWI)
+1700€ per month stipend + potentially academic assistant position (HIWI)
 
 ## MSc stipends (international students are very welcome)
-We predominantly hire PhDs and Postdocs, but if you are highly motivated and see exceptional synergy with our group, please be in touch.
+We predominantly hire PhDs and Postdocs, but if you are highly motivated and see exceptional synergy with our group, please contact us.
 
 You need to apply via https://applymsc.informatik.uni-kl.de/ to be admitted but get in touch before.
 
 
 
-You need to apply via [https://applymsc.informatik.uni-kl.de/](https://applymsc.informatik.uni-kl.de/) to be addmited to MSc but get in touch before.
+You need to apply via [https://applymsc.informatik.uni-kl.de/](https://applymsc.informatik.uni-kl.de/) to be admitted to MSc but get in touch before.
 # [Submit your interest here!](https://forms.office.com/r/CWNtPWXdLr)
 
 # Sample project
@@ -49,7 +49,7 @@ We encourage successful candidates to explore areas of machine learning within s
 Successful candidates will work on cutting-edge research with access to state-of-the-art technology and will be at the forefront of survival analysis research. The project will further allow the candidate to develop the necessary skills to become an independent researcher by encouraging novel ideas and methods, as well as helping the candidate grow their own network of academics across the world.
 
 
-# Selected International Colloaborators 
+# Selected International Collaborators 
  - [Bernd Bischl (Fraunhofer & München)](https://www.slds.stat.uni-muenchen.de/people/bischl/)
  - [Spiros Denaxas (UCL)](https://denaxaslab.org)
  - [Hong Ge](https://www.google.com/search?client=safari&rls=en&q=hong+cambridge&ie=UTF-8&oe=UTF-8) 
