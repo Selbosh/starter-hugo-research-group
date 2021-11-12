@@ -20,6 +20,11 @@ design:
 
 <br>
 
+<br>
+## TUK Students: BSc/MSc disseratations available [register your interest](https://forms.office.com/r/Deyiy80bFe)
+
+## Office hours: Friday noon-1pm
+
 Data science touches upon technical areas such as mathematics, statistics and computer science as well as various applications such as in the biomedical sciences, industrial applications, business, social sciences and natural sciences. It can be viewed as a vehicle establishing methodology that is vital for the connection between methodology and applications and which ultimately allows for the sciences to have an impact in real-world applications. 
 Initially the focus of  four major streams:
 - Bayesian methodology and Monte Carlo Methods: the development of novel methodologies and the extension of established theoretical works pertaining to machine learning.
