@@ -13,8 +13,7 @@ main:
   - name: Jobs
     url: jobs
     weight: 40
-
-    - name: Dissertation
+  - name: Dissertation
     url: dissertation
     weight: 45
   # - name: Events
