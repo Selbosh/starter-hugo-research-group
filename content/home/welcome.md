@@ -21,7 +21,7 @@ design:
 <br>
 
 <br>
-## TUK Students: BSc/MSc disseratations available [register your interest](https://forms.office.com/r/Deyiy80bFe)
+
 
 ## Office hours: Friday noon-1pm
 
