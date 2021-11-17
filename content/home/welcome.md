@@ -18,12 +18,11 @@ design:
   css_class:
 ---
 
-<br>
 
 <br>
 
 
-## Office hours: Friday noon-1pm
+## Check out dissertation topics 
 
 Data science touches upon technical areas such as mathematics, statistics and computer science as well as various applications such as in the biomedical sciences, industrial applications, business, social sciences and natural sciences. It can be viewed as a vehicle establishing methodology that is vital for the connection between methodology and applications and which ultimately allows for the sciences to have an impact in real-world applications. 
 Initially the focus of  four major streams:
