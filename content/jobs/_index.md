@@ -59,7 +59,7 @@ Successful candidates will work on cutting-edge research with access to state-of
  - [Louis Aslett (Durham & Alan Turing Institute)](http://www.louisaslett.com)
  - [Laster Mackey (Stanford & Microsoft) ](https://web.stanford.edu/~lmackey/)
  - [Yee Whye Teh (Oxford & Deep Mind)](https://www.stats.ox.ac.uk/~teh/)
- 
+ - [Adolfo de Unánue (Escuela de Gobierno y Transformación Pública)](https://gobierno.uai.cl/profesor-externo-uai/adolfo-de-unanue/)
  
  
 
