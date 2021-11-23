@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org' # not sure which email to put here as it may be a spam magnet
+  link: 'mailto:david.selby@manchester.ac.uk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/TeaStats
